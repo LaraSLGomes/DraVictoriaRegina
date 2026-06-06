@@ -7,28 +7,29 @@
 
 > Website moderno, ágil e focado em conversão desenvolvido para a **Dra. Victória Albino** (CRM/CE 27416), Médica Generalista com forte atuação em emergências pediátricas e adultas.
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 Projeto *freelance* focado na construção da presença digital da profissional. A arquitetura da página foi pensada para guiar o paciente de forma intuitiva, gerando autoridade através da exposição clara de suas qualificações e facilitando o agendamento de consultas (Telemedicina e Domiciliar) com o menor atrito possível.
 
-## ✨ Funcionalidades e Soluções
+## Funcionalidades e Soluções
 
-- 💻 **Telemedicina Independente:** Seção estratégica destacando o atendimento online particular, sem vínculos corporativos.
-- 🚗 **Atendimento Domiciliar & Emergencial:** Apresentação clara da área de cobertura (Fortaleza e Eusébio) e atuação na Rede Hapvida.
-- 📱 **Mobile-First & Responsividade:** Interface perfeitamente adaptável a smartphones, tablets e monitores *ultrawide*.
-- 🚀 **Performance & Navegação:** Menu *Sticky* (fixo) com transições suaves (Smooth Scroll) e script leve para otimização de tempo de carregamento.
-- ✉️ **Contato Omnichannel:** 
+- **Telemedicina Independente:** Seção estratégica destacando o atendimento online particular, sem vínculos corporativos.
+- **Atendimento Domiciliar & Emergencial:** Apresentação clara da área de cobertura (Fortaleza e Eusébio) e atuação na Rede Hapvida.
+- **Mobile-First & Responsividade:** Interface perfeitamente adaptável a smartphones, tablets e monitores *ultrawide*.
+- **Performance & Navegação:** Menu *Sticky* (fixo) com transições suaves (Smooth Scroll) e script leve para otimização de tempo de carregamento.
+- **Contato Omnichannel:** 
   - *Floating Button* de WhatsApp para contato instantâneo.
   - Sistema de abas dinâmicas (*Tabs*) com formulário que gera envio de e-mail pré-estruturado nativamente.
 
-## 🛠️ Tecnologias e Arquitetura
+## Tecnologias e Arquitetura
 
 O projeto foi construído sem dependência de bibliotecas externas pesadas, garantindo máxima performance e facilidade de manutenção:
 
 - **HTML5:** Estruturação semântica visando acessibilidade e boas práticas de SEO.
 - **CSS3:** Design System próprio (Variáveis CSS), uso de Flexbox/Grid e animações nativas para uma UI polida.
 - **JavaScript (Vanilla):** Lógica de interatividade modular (Menu Hambúrguer, Tabs de contato e controle dinâmico de rolagem).
-# 📂 Estrutura de Diretórios
+
+# Estrutura de Diretórios
 ```
 📦 DrVictoriaRegina
  ┣ 📜 index.html      # Estrutura principal e conteúdo
@@ -39,8 +40,7 @@ O projeto foi construído sem dependência de bibliotecas externas pesadas, gara
 └── README.md          # Este arquivo
 ```
 
-## Como Usar
-🎨 Design System (Paleta de Cores)
+## Design System (Paleta de Cores)
 
 A identidade visual foi definida para transmitir acolhimento, saúde e profissionalismo:
 
@@ -51,7 +51,8 @@ A identidade visual foi definida para transmitir acolhimento, saúde e profissio
 | **Verde WhatsApp** | `#25d366` | Call to Action (Conversão) |
 | **Bege Claro** | `#faf5f6` | Background principal (redução de fadiga visual) |
 | **Texto Escuro** | `#2c2526` | Leitura confortável (Contraste acessível) |
-## 📝 Licença
+
+## Licença
 
 Este projeto foi desenvolvido como freelancer. Todos os direitos autorais reservados.
 
